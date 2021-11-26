@@ -1,4 +1,4 @@
-package ilove.quark.us;
+package org.acme.websockets;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.websocket.EncodeException;
